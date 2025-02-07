@@ -35,10 +35,10 @@ O código foi desenvolvido em **Python** e estruturado para permitir a interaç�
 
 A interface permite que o usuário insira a função desejada e selecione a quantidade de pontos para a aproximação retangular. A seguir, um exemplo visual da tela de entrada de dados:
 
-![GIF 1: Input visual dos dados](caminho/para/gif1.gif)
+![GIF 1: Input visual dos dados](/input.gif)
 
 ### 2. Aproximação Retangular de Sinal
 
 Neste exemplo, a função `Sin(x) / x` é aproximada utilizando 100 pontos. À medida que o número de pontos aumenta, a aproximação retangular do sinal melhora continuamente até atingir o limite definido.
 
-![GIF 2: Aproximação retangular do sinal](caminho/para/gif2.gif)
+![GIF 2: Aproximação retangular do sinal](/aproximação.gif)
